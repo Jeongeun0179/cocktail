@@ -39,3 +39,5 @@
 
 ## 맛집 웨이팅 구현
 - waiting.html
+## 맛집 추천 구현
+- recommendation.html
